@@ -8,6 +8,10 @@ Analysis Reporting System, and were documented in a previous assessment.
 The original file with the functions can be downloaded [here](https://d3c33hcgiwev3.cloudfront.net/_d4d3eb5980180587403780aa36de9f2c_fars_functions.R?Expires=1503532800&Signature=HEAN4kO65sTiH5GUbCw9YR8Rm8jD3L-q3t3eS6oCHkaBQMKGBsdqkGE-VKjdj33N4AkeM85KhxWKFwe6WWmE1iIxlWS-JYcXC01XNQM0mrZ9N4DPuIdFnRn4Kxn~7pnhYfVe9NPeoDPT3WqbVj-PwJ-vb3SEfr~Z5usfvxjEp6c_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A) and some data examples are
 [here](https://d3c33hcgiwev3.cloudfront.net/_e1adac2a5f05192dc8780f3944feec13_fars_data.zip?Expires=1503532800&Signature=Oc7pvDbWSGHdyhp1HhRmZCS5~3MS0v~lYLQfwASQM4y-4gIFXa7oT6ZgPgV-rvJlPVvhJ1bOPUBvtUOU7K3JlHZGsxKalTGQIqzFTsDKKvwKHGfyCWCN7DV78jzpeBjHF~1ACXk1rCSuCYfjfXf7QuL4dMDimHRC1GBEZbvGFQA_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A).
 
+Notice that the package is required to pass on Travis build, and here is Travis' badge:
+
+[![Build Status](https://travis-ci.org/danielmoralesx/dmorales.fars.svg?branch=master)](https://travis-ci.org/danielmoralesx/dmorales.fars)
+
 Now you will find the instructions for the assessment.
 
 ### Instructions
