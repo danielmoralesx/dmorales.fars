@@ -1,0 +1,21 @@
+---
+title: "dmorales.fars"
+author: "Daniel Morales"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+The releasing of this package is the final project for Coursera's 
+Building R Packages course. The functions are for treatment and analysis of
+data from US National Highway Traffic Safety Administration's Fatality 
+Analysis Reporting System.
+
+Using the functions require having downloaded the data previously. You can 
+download some data examples
+[here](https://d3c33hcgiwev3.cloudfront.net/_e1adac2a5f05192dc8780f3944feec13_fars_data.zip?Expires=1503532800&Signature=Oc7pvDbWSGHdyhp1HhRmZCS5~3MS0v~lYLQfwASQM4y-4gIFXa7oT6ZgPgV-rvJlPVvhJ1bOPUBvtUOU7K3JlHZGsxKalTGQIqzFTsDKKvwKHGfyCWCN7DV78jzpeBjHF~1ACXk1rCSuCYfjfXf7QuL4dMDimHRC1GBEZbvGFQA_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A).
+Having the files in your current directory, you can work with the documentation
+for each function.
